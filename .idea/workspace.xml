@@ -4,11 +4,50 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db8d8acc-da6f-471d-9bb8-b9b4a7318bd3" name="Changes" comment="" />
+    <list default="true" id="db8d8acc-da6f-471d-9bb8-b9b4a7318bd3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/checkNull/nullHandling.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/checkNull/package.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/lecture/part2oop/OOBasics.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/part2OOP/Inheritance.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/part2OOP/MethodNotations.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/part2OOP/objectOO.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/playground/JavaPlayground.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/sundog/learningScala.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/sundog/learningScala1.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/sundog/learningScala2.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/sundog/learningScala3.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/playground/Playground.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/playground/Playground.scala" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Worksheet" />
+        <option value="Package Object" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
@@ -19,12 +58,97 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\scalabeginner\scalatesting12\src\main\scala\sundog" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.OOBasics">
+    <configuration name="Inheritance" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="part2OOP.Inheritance" />
+      <module name="scalabeginner" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="part2OOP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OOBasics" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lecture.part2oop.OOBasics" />
+      <module name="scalabeginner" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lecture.part2oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Objects" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="part2OOP.Objects" />
+      <module name="scalabeginner" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="part2OOP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="learningScala" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="sundog.learningScala" />
+      <module name="scalabeginner" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sundog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nullHandling" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="checkNull.nullHandling" />
+      <module name="scalabeginner" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="checkNull.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OOBasics" />
+        <item itemvalue="Application.nullHandling" />
+        <item itemvalue="Application.learningScala" />
+        <item itemvalue="Application.Inheritance" />
+        <item itemvalue="Application.Objects" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="scala3DisclaimerShown" value="true" />
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -35,5 +159,16 @@
       <updated>1676372162248</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/sundog/learningScala.scala</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
